@@ -3,12 +3,13 @@
 # Conventions
 
 # Plugin
-Framework setup + QOL
-Debuger
-Plugin plugins
-Resource packager
-Version control
+- Intelisense
+- Framework setup + QOL
+- Debuger
+- Plugin plugins
+- Resource packager
+- Version control
 
 # Resource manager
-Server + Website
-Official resources
+- Server + Website
+- Official resources
